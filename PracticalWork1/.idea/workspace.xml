@@ -14,11 +14,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Wk1ySsOPjhgxesv8hjTjEJYc8q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.vistco" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Task13">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -32,11 +45,11 @@
       </method>
     </configuration>
     <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="work11.Task11" />
+      <option name="MAIN_CLASS_NAME" value="com.vistco.work11.Task11" />
       <module name="PracticalWork1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="work11.*" />
+          <option name="PATTERN" value="com.vistco.work11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -45,11 +58,11 @@
       </method>
     </configuration>
     <configuration name="Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="work12.Task12" />
+      <option name="MAIN_CLASS_NAME" value="com.vistco.work12.Task12" />
       <module name="PracticalWork1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="work12.*" />
+          <option name="PATTERN" value="com.vistco.work12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,11 +71,11 @@
       </method>
     </configuration>
     <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="work13.Task13" />
+      <option name="MAIN_CLASS_NAME" value="com.vistco.work13.Task13" />
       <module name="PracticalWork1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="work13.*" />
+          <option name="PATTERN" value="com.vistco.work13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,21 +112,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1579680817354">
+    <state x="499" y="189" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1580107985424">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579680817354" />
-    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1579680817354">
+    <state x="499" y="189" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1580107985424" />
+    <state x="566" y="319" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1580107986513">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579680817354" />
-    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1579680817354">
+    <state x="566" y="319" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1580107986513" />
+    <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1580121592630">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579680817354" />
-    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1579680817354">
+    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580121592630" />
+    <state width="1493" height="245" key="GridCell.Tab.0.bottom" timestamp="1580108061437">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579680817354" />
+    <state width="1493" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580108061437" />
+    <state width="1493" height="245" key="GridCell.Tab.0.center" timestamp="1580108061437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580108061437" />
+    <state width="1493" height="245" key="GridCell.Tab.0.left" timestamp="1580108061437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580108061437" />
+    <state width="1493" height="245" key="GridCell.Tab.0.right" timestamp="1580108061437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580108061437" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1580121705441">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580121705441" />
   </component>
 </project>

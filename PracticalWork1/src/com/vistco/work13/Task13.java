@@ -1,8 +1,8 @@
-package work13;
+package com.vistco.work13;
 
 public class Task13 {
     public static void main(String[] args) {
-        // define letters 
+        // define letters
         String j1 = "   + + + ";
         String j2 = "       + ";
         String j3 = "       + ";
@@ -27,6 +27,7 @@ public class Task13 {
         System.out.println(j3 + " " + a3 + " " + v3  + " " + a3);
         System.out.println(j4 + " " + a4 + " " + v4  + " " + a4);
         System.out.println(j5 + " " + a5 + " " + v5  + " " + a5);
+
     }
 
 }

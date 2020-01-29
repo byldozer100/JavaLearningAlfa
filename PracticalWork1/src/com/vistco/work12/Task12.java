@@ -1,4 +1,4 @@
-package work12;
+package com.vistco.work12;
 import java.util.Scanner;
 public class Task12 {
     public static void main(String[] args) {

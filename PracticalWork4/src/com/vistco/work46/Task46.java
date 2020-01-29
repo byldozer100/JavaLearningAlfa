@@ -12,6 +12,7 @@ public class Task46 {
         int ost = 0;
         int sum = 0;
 
+        number = number <0 ? -number:number;
 
         while (number>0)
         {

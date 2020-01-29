@@ -2,7 +2,7 @@ package com.vistco.work45;
 
 public class Task45 {
     public static void main(String[] args) {
-        int tableSize = 30;
+        int tableSize = 10;
         System.out.print("* |  ");
 
         int number = 1;
